@@ -4,4 +4,4 @@ In this repository I'll be documenting my development in data science skills. As
 
 So far, here are the projects I've done in order to practice what I've learned reading the book:
 
-- [Predicting Health Care Costs](lr-health-costs) - a Linear Regression Model
+- [Predicting Health Care Costs](lr-healthcare-costs) - a Linear Regression Model
