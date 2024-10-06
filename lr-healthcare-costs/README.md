@@ -14,7 +14,7 @@ Here, I present my process for investigating and cleaning a dataset, as well as 
 
 ## My biggest difficulties:
 
-While cleaning the data, I encountered a problem with the `sex` column, where I needed to standardize the observations to _male_ and _female_. I overcame this issue by creating a map with a dictionary and using the `.replace()` method in the respctive column. _ChatGPT 4.0_ assisted with this solution, as well as with other syntax and debugging problems along the way.
+While cleaning the data, I encountered a problem with the `sex` column, where I needed to standardize the observations to _male_ and _female_. I overcame this issue by creating a map with a dictionary and using the `.replace()` method in the respective column. _ChatGPT 4.0_ assisted with this solution, as well as with other syntax and debugging problems along the way.
 
 ## Dataset summary and our goals for this project
 
